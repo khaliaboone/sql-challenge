@@ -27,4 +27,4 @@ In this assignment, I worked with historical employee data from Pewlett Hackard 
 - You successfully created and populated a SQL database.
 - You ran queries to extract and analyze the employee data, providing valuable insights.
 
-I acquired help from ChatGPT to formulate my answers as well as my codes that I have submitted. 
+I acquired help from ChatGPT to formulate my answers as well as my codes that I have submitted. While sql code may not be perfect I enjoyed challenging myself to learn more about this assignment. 
